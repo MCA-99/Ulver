@@ -1,0 +1,2900 @@
+fileFormatVersion: 2
+guid: a38776d4b748d664e823099dcefb3bc4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6035387321845325538
+    second: Iconos varios_0
+  - first:
+      213: -650038999176414165
+    second: Iconos varios_1
+  - first:
+      213: 1760231129073345286
+    second: Iconos varios_2
+  - first:
+      213: -2965930988412323576
+    second: Iconos varios_3
+  - first:
+      213: -6279432792687475134
+    second: Iconos varios_4
+  - first:
+      213: 4723955622675077683
+    second: Iconos varios_5
+  - first:
+      213: 7562945881549128165
+    second: Iconos varios_6
+  - first:
+      213: 6532309372241691057
+    second: Iconos varios_7
+  - first:
+      213: 9166419593570320471
+    second: Iconos varios_8
+  - first:
+      213: -12719238525818294
+    second: Iconos varios_9
+  - first:
+      213: -4562306344332146349
+    second: Iconos varios_10
+  - first:
+      213: 5028894651366140494
+    second: Iconos varios_11
+  - first:
+      213: -2508823380956505831
+    second: Iconos varios_12
+  - first:
+      213: -6417668795216063206
+    second: Iconos varios_13
+  - first:
+      213: 945868788313146093
+    second: Iconos varios_14
+  - first:
+      213: 7551629463799084821
+    second: Iconos varios_15
+  - first:
+      213: -1266227162087268881
+    second: Iconos varios_16
+  - first:
+      213: 551795934954495474
+    second: Iconos varios_17
+  - first:
+      213: -8490169863664407232
+    second: Iconos varios_18
+  - first:
+      213: -287002557327473711
+    second: Iconos varios_19
+  - first:
+      213: 4568992254347510807
+    second: Iconos varios_20
+  - first:
+      213: -4049610428597681213
+    second: Iconos varios_21
+  - first:
+      213: -2942168719946568661
+    second: Iconos varios_22
+  - first:
+      213: 3434268737312509188
+    second: Iconos varios_23
+  - first:
+      213: 8435437623165368174
+    second: Iconos varios_24
+  - first:
+      213: -8966119084677475996
+    second: Iconos varios_25
+  - first:
+      213: -3335205805862348278
+    second: Iconos varios_26
+  - first:
+      213: -7928556994062815152
+    second: Iconos varios_27
+  - first:
+      213: -4428907459548311468
+    second: Iconos varios_28
+  - first:
+      213: -6725902223711192391
+    second: Iconos varios_29
+  - first:
+      213: -8062318338471221403
+    second: Iconos varios_30
+  - first:
+      213: 5025550583462313436
+    second: Iconos varios_31
+  - first:
+      213: 894643570804666057
+    second: Iconos varios_32
+  - first:
+      213: -8674640229467530346
+    second: Iconos varios_33
+  - first:
+      213: -2968233487576549432
+    second: Iconos varios_34
+  - first:
+      213: -3712536394912514740
+    second: Iconos varios_35
+  - first:
+      213: 7761874942146086706
+    second: Iconos varios_36
+  - first:
+      213: -5020261309981257770
+    second: Iconos varios_37
+  - first:
+      213: 4771590585489420359
+    second: Iconos varios_38
+  - first:
+      213: -4206873369590595454
+    second: Iconos varios_39
+  - first:
+      213: -5622794289986942219
+    second: Iconos varios_40
+  - first:
+      213: 5895081112814293659
+    second: Iconos varios_41
+  - first:
+      213: -4054050962900558593
+    second: Iconos varios_42
+  - first:
+      213: -2538857967148913747
+    second: Iconos varios_43
+  - first:
+      213: -5938998111358168210
+    second: Iconos varios_44
+  - first:
+      213: 4840372950824438409
+    second: Iconos varios_45
+  - first:
+      213: 7099737450774408877
+    second: Iconos varios_46
+  - first:
+      213: 7382600074826323594
+    second: Iconos varios_47
+  - first:
+      213: 6402137515391266459
+    second: Iconos varios_48
+  - first:
+      213: -7489808035278748639
+    second: Iconos varios_49
+  - first:
+      213: -1361560475385040885
+    second: Iconos varios_50
+  - first:
+      213: 1726209215410311936
+    second: Iconos varios_51
+  - first:
+      213: 4352406247725523150
+    second: Iconos varios_52
+  - first:
+      213: -4081347529083669201
+    second: Iconos varios_53
+  - first:
+      213: -5877164265199531512
+    second: Iconos varios_54
+  - first:
+      213: -1941960867125052426
+    second: Iconos varios_55
+  - first:
+      213: 2999830765881610792
+    second: Iconos varios_56
+  - first:
+      213: 2519168627943872970
+    second: Iconos varios_57
+  - first:
+      213: 8524872050581434453
+    second: Iconos varios_58
+  - first:
+      213: -3116191250624043925
+    second: Iconos varios_59
+  - first:
+      213: -9195085777170439818
+    second: Iconos varios_60
+  - first:
+      213: 1686977894235713253
+    second: Iconos varios_61
+  - first:
+      213: -3097749479304291484
+    second: Iconos varios_62
+  - first:
+      213: -6507619336875142590
+    second: Iconos varios_63
+  - first:
+      213: -7502893310675429205
+    second: Iconos varios_64
+  - first:
+      213: -2191527029923237177
+    second: Iconos varios_65
+  - first:
+      213: 6850278664045568824
+    second: Iconos varios_66
+  - first:
+      213: -5422296602544714307
+    second: Iconos varios_67
+  - first:
+      213: 3406977076557025287
+    second: Iconos varios_68
+  - first:
+      213: -9116735328520760737
+    second: Iconos varios_69
+  - first:
+      213: 2031548273226168711
+    second: Iconos varios_70
+  - first:
+      213: -7097858417910299324
+    second: Iconos varios_71
+  - first:
+      213: 6145758094678691034
+    second: Iconos varios_72
+  - first:
+      213: 3651944836882918057
+    second: Iconos varios_73
+  - first:
+      213: 1172280211200644013
+    second: Iconos varios_74
+  - first:
+      213: 8430612617400219179
+    second: Iconos varios_75
+  - first:
+      213: -2781758220777991255
+    second: Iconos varios_76
+  - first:
+      213: 3311447783748248144
+    second: Iconos varios_77
+  - first:
+      213: -1521717138698663629
+    second: Iconos varios_78
+  - first:
+      213: -5073523827778838647
+    second: Iconos varios_79
+  - first:
+      213: 6051796121640005673
+    second: Iconos varios_80
+  - first:
+      213: 6705852190389000822
+    second: Iconos varios_81
+  - first:
+      213: -5995497964142162959
+    second: Iconos varios_82
+  - first:
+      213: 6506649372684404796
+    second: Iconos varios_83
+  - first:
+      213: 7154003620102795487
+    second: Iconos varios_84
+  - first:
+      213: 8908477313489847800
+    second: Iconos varios_85
+  - first:
+      213: -1677181509652005304
+    second: Iconos varios_86
+  - first:
+      213: 7903666894566789598
+    second: Iconos varios_87
+  - first:
+      213: 6271874158868527400
+    second: Iconos varios_88
+  - first:
+      213: 4847949136724329459
+    second: Iconos varios_89
+  - first:
+      213: 6751862029528747109
+    second: Iconos varios_90
+  - first:
+      213: -4559515614256232816
+    second: Iconos varios_91
+  - first:
+      213: -8195328451333345611
+    second: Iconos varios_92
+  - first:
+      213: -3823903007485045367
+    second: Iconos varios_93
+  - first:
+      213: 6549825119170523241
+    second: Iconos varios_94
+  - first:
+      213: -3276850637439256889
+    second: Iconos varios_95
+  - first:
+      213: 4152310640981614971
+    second: Iconos varios_96
+  - first:
+      213: 2973411957745057605
+    second: Iconos varios_97
+  - first:
+      213: -1108722596506651977
+    second: Iconos varios_98
+  - first:
+      213: 1874943522390997570
+    second: Iconos varios_99
+  - first:
+      213: 680364562745869413
+    second: Iconos varios_100
+  - first:
+      213: -3713214894046520365
+    second: Iconos varios_101
+  - first:
+      213: 6159255636386693090
+    second: Iconos varios_102
+  - first:
+      213: 3067214729012284522
+    second: Iconos varios_103
+  - first:
+      213: 5132442104645046286
+    second: Iconos varios_104
+  - first:
+      213: -5592375511489124281
+    second: Iconos varios_105
+  - first:
+      213: 7219845991641033607
+    second: Iconos varios_106
+  - first:
+      213: 2263455447195172871
+    second: Iconos varios_107
+  - first:
+      213: -1939004392795172961
+    second: Iconos varios_108
+  - first:
+      213: 2272391756056869214
+    second: Iconos varios_109
+  - first:
+      213: -3294594611627392580
+    second: Iconos varios_110
+  - first:
+      213: -5671523048813971944
+    second: Iconos varios_111
+  - first:
+      213: -8418029702444529582
+    second: Iconos varios_112
+  - first:
+      213: 2131215127471933606
+    second: Iconos varios_113
+  - first:
+      213: 6649118050122988163
+    second: Iconos varios_114
+  - first:
+      213: 6015222166114499315
+    second: Iconos varios_115
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Iconos varios_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 288
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee9c78dac002c350800000000000000
+      internalID: 6035387321845325538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 82
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c70fb69f89af6f0800000000000000
+      internalID: -650038999176414165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_2
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 82
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6036003c2e89d6810800000000000000
+      internalID: 1760231129073345286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_3
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 83
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8093c5fea75e6d6d0800000000000000
+      internalID: -2965930988412323576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_4
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 83
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2468ce81529fad8a0800000000000000
+      internalID: -6279432792687475134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_5
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 81
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ad1483c9cde8140800000000000000
+      internalID: 4723955622675077683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_6
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 81
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e14d35853bf4f860800000000000000
+      internalID: 7562945881549128165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_7
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 81
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1cb6fa3cc67aa50800000000000000
+      internalID: 6532309372241691057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_8
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 82
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75080f8fd0aa53f70800000000000000
+      internalID: 9166419593570320471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_9
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 82
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4aead18befc2dff0800000000000000
+      internalID: -12719238525818294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_10
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 82
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359429d4d8e6fa0c0800000000000000
+      internalID: -4562306344332146349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_11
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 82
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a6a8b8a093ac540800000000000000
+      internalID: 5028894651366140494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_12
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 82
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91994e56d6ede2dd0800000000000000
+      internalID: -2508823380956505831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_13
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 82
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a159907ab3cdfe6a0800000000000000
+      internalID: -6417668795216063206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_14
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 82
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2c88bc6a6602d00800000000000000
+      internalID: 945868788313146093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_15
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 82
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5173e11bcf6ccc860800000000000000
+      internalID: 7551629463799084821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_16
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 82
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed56d6da157d6ee0800000000000000
+      internalID: -1266227162087268881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_17
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 82
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd9773ba7f58a700800000000000000
+      internalID: 551795934954495474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_18
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 82
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d6e89ed7bdc2a80800000000000000
+      internalID: -8490169863664407232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_19
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 70
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d30ed8d1bc540cf0800000000000000
+      internalID: -287002557327473711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_20
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 67
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71405ed6f32586f30800000000000000
+      internalID: 4568992254347510807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_21
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 67
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3c7bc55c4ecc7c0800000000000000
+      internalID: -4049610428597681213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_22
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 66
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ca15233215b27d0800000000000000
+      internalID: -2942168719946568661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_23
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 69
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40dcdb69839f8af20800000000000000
+      internalID: 3434268737312509188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_24
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 68
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e67bcbd43d1b01570800000000000000
+      internalID: 8435437623165368174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_25
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 66
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461d2ff6232f19380800000000000000
+      internalID: -8966119084677475996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_26
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 66
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a11c08df7f6b1d0800000000000000
+      internalID: -3335205805862348278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_27
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 66
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0507273db6b18f190800000000000000
+      internalID: -7928556994062815152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_28
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 66
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4509b82812c5982c0800000000000000
+      internalID: -4428907459548311468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_29
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 66
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba3fa9109bc8a2a0800000000000000
+      internalID: -6725902223711192391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_30
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 65
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5672e49ef24ec1090800000000000000
+      internalID: -8062318338471221403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_31
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 66
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd370011a75eb540800000000000000
+      internalID: 5025550583462313436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_32
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 66
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce266e66996a6c00800000000000000
+      internalID: 894643570804666057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_33
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 66
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b5648ebac7d9780800000000000000
+      internalID: -8674640229467530346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_34
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 66
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7b4929e57bec6d0800000000000000
+      internalID: -2968233487576549432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_35
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 66
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4db78591db6a7cc0800000000000000
+      internalID: -3712536394912514740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_36
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 66
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2378f9db228b7bb60800000000000000
+      internalID: 7761874942146086706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_37
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 50
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df0ee2efe2745ab0800000000000000
+      internalID: -5020261309981257770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_38
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 49
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740f1b54b58183240800000000000000
+      internalID: 4771590585489420359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_39
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 49
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280808695fe2e95c0800000000000000
+      internalID: -4206873369590595454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_40
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 49
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5facb345262d7f1b0800000000000000
+      internalID: -5622794289986942219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_41
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 50
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b921963e9098fc150800000000000000
+      internalID: 5895081112814293659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_42
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 49
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc5bf6e02e1db7c0800000000000000
+      internalID: -4054050962900558593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_43
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 50
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab2bec512a24ccd0800000000000000
+      internalID: -2538857967148913747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_44
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 49
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63d7c21fa0749da0800000000000000
+      internalID: -5938998111358168210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_45
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 50
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98acc4aad857c2340800000000000000
+      internalID: 4840372950824438409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_46
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 49
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae22ff6895578260800000000000000
+      internalID: 7099737450774408877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_47
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 50
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a869bc247a3447660800000000000000
+      internalID: 7382600074826323594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_48
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 49
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e29187626f8d850800000000000000
+      internalID: 6402137515391266459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_49
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 50
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 124085d464bde0890800000000000000
+      internalID: -7489808035278748639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_50
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 49
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00767426f3ca1de0800000000000000
+      internalID: -1361560475385040885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_51
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 50
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0039984b22ab4f710800000000000000
+      internalID: 1726209215410311936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_52
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 49
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0eed91c6ad66c30800000000000000
+      internalID: 4352406247725523150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_53
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 50
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25bc04db042c57c0800000000000000
+      internalID: -4081347529083669201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_54
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 50
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a89264d3e107ea0800000000000000
+      internalID: -5877164265199531512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_55
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 50
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb3d4b51e4cc05e0800000000000000
+      internalID: -1941960867125052426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_56
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 50
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82259a2103a81a920800000000000000
+      internalID: 2999830765881610792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_57
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 51
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac917ed1582e5f220800000000000000
+      internalID: 2519168627943872970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_58
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 50
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550ff8a96fd6e4670800000000000000
+      internalID: 8524872050581434453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_59
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 50
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64af5e519011c4d0800000000000000
+      internalID: -3116191250624043925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_60
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 50
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 671628c043e746080800000000000000
+      internalID: -9195085777170439818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_61
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 49
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee2bd1f479596710800000000000000
+      internalID: 1686977894235713253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_62
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 50
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b9aead2459205d0800000000000000
+      internalID: -3097749479304291484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_63
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 50
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242181421ba40b5a0800000000000000
+      internalID: -6507619336875142590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_64
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 36
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba85985394e50e790800000000000000
+      internalID: -7502893310675429205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_65
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 36
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c232c907c12691e0800000000000000
+      internalID: -2191527029923237177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_66
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 35
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833afde8624111f50800000000000000
+      internalID: 6850278664045568824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_67
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 35
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbdc382f7f120c4b0800000000000000
+      internalID: -5422296602544714307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_68
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 36
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7009416a993084f20800000000000000
+      internalID: 3406977076557025287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_69
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 36
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5214407589da7180800000000000000
+      internalID: -9116735328520760737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_70
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 36
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78934b11462813c10800000000000000
+      internalID: 2031548273226168711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_71
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 35
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445c07eff575f7d90800000000000000
+      internalID: -7097858417910299324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_72
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 34
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc0eccec6e1a4550800000000000000
+      internalID: 6145758094678691034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_73
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 34
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa6ab5fa705ea230800000000000000
+      internalID: 3651944836882918057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_74
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 39
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da395dd14a6c44010800000000000000
+      internalID: 1172280211200644013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_75
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 34
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26f01b128d8ff470800000000000000
+      internalID: 8430612617400219179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_76
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 34
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a35187f2a53569d0800000000000000
+      internalID: -2781758220777991255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_77
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 34
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052a19ae630a4fd20800000000000000
+      internalID: 3311447783748248144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_78
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 34
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3390e332356c1eae0800000000000000
+      internalID: -1521717138698663629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_79
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 36
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f13c595f83799b0800000000000000
+      internalID: -5073523827778838647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_80
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 36
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9207073428c4cf350800000000000000
+      internalID: 6051796121640005673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_81
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 36
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a596cb909ff0d50800000000000000
+      internalID: 6705852190389000822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_82
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 18
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb8abbfd56bbcca0800000000000000
+      internalID: -5995497964142162959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_83
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 18
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c384fd871234c4a50800000000000000
+      internalID: 6506649372684404796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_84
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 18
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd0f5129360284360800000000000000
+      internalID: 7154003620102795487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_85
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 18
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f54030eae441ab70800000000000000
+      internalID: 8908477313489847800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_86
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 18
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84eb6559d4479b8e0800000000000000
+      internalID: -1677181509652005304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_87
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 18
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed11ba94a277fad60800000000000000
+      internalID: 7903666894566789598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_88
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 2
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8297f43515c2a0750800000000000000
+      internalID: 6271874158868527400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_89
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 18
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f38d97ed00674340800000000000000
+      internalID: 4847949136724329459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_90
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 4
+        width: 6
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c42823ebe63bd50800000000000000
+      internalID: 6751862029528747109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_91
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 18
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0960968c4b859b0c0800000000000000
+      internalID: -4559515614256232816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_92
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 17
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5beaf98b138544e80800000000000000
+      internalID: -8195328451333345611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_93
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 17
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9855e4f7974ceeac0800000000000000
+      internalID: -3823903007485045367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_94
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 17
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960f6115e37a5ea50800000000000000
+      internalID: 6549825119170523241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_95
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 17
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6bb6de4b94682d0800000000000000
+      internalID: -3276850637439256889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_96
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 17
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71a8c03788ff9930800000000000000
+      internalID: 4152310640981614971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_97
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 17
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ffa48fb6ea34920800000000000000
+      internalID: 2973411957745057605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_98
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 17
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b2b5c83ca60d90f0800000000000000
+      internalID: -1108722596506651977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_99
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 17
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24af8022333250a10800000000000000
+      internalID: 1874943522390997570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_100
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5644b3017f3217900800000000000000
+      internalID: 680364562745869413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_101
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 3
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dbdaa13ab2087cc0800000000000000
+      internalID: -3713214894046520365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_102
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 2
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2efb6af3e521a7550800000000000000
+      internalID: 6159255636386693090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_103
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 2
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c8f949b8fe09a20800000000000000
+      internalID: 3067214729012284522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_104
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 4
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0050adb6e81a3740800000000000000
+      internalID: 5132442104645046286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_105
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 3
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748e81b1a14e362b0800000000000000
+      internalID: -5592375511489124281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_106
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 3
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78baac05dab023460800000000000000
+      internalID: 7219845991641033607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_107
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 2
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700cdf6acb8696f10800000000000000
+      internalID: 2263455447195172871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_108
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 3
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f858d27c54715e0800000000000000
+      internalID: -1939004392795172961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_109
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 4
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59bb423348298f10800000000000000
+      internalID: 2272391756056869214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_110
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1880ff7af3742d0800000000000000
+      internalID: -3294594611627392580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_111
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 3
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816b00c06d3ba41b0800000000000000
+      internalID: -5671523048813971944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_112
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 4
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2584b1516962d2b80800000000000000
+      internalID: -8418029702444529582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_113
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 2
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a847e4edd8939d10800000000000000
+      internalID: 2131215127471933606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_114
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 3
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38af73753a9664c50800000000000000
+      internalID: 6649118050122988163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconos varios_115
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa7f48a0bc5a7350800000000000000
+      internalID: 6015222166114499315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
